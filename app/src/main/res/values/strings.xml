@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Dramovies Final</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="edittext_search_movie">Movie Title</string>
+    <string name="textview_overview">Overview</string>
+    <string name="textview_genre">Genre</string>
+    <string name="textview_release">Release Date</string>
+    <string name="textview_language">Language</string>
+    <string name="textview_rating">Rating</string>
+    <string name="textview_genre_action">Action</string>
+    <string name="textview_overview_desc">After being bitten by a genetically altered spider,
+        nerdy high school student Peter Parker is endowed</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Language</string>
+    <string name="search_hint">Title</string>
+    <string name="action_search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="menu_detail">Favorite Menu</string>
+    <string name="textview_favorite_list">Your Favorite List is Empty</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Empty List</string>
+    <string name="appwidget_text">Favorite Movies</string>
+    <string name="menu_2">Reminder Setting</string>
+    <string name="key_daily_reminder">daily</string>
+    <string name="textview_daily_reminder">Daily Reminder</string>
+    <string name="summary_daily_reminder">Reminder for return to the app</string>
+    <string name="textview_release_reminder">Release Reminder</string>
+    <string name="summary_release_reminder">Reminder for showing released movie today</string>
+    <string name="key_release_reminder">release</string>
+    <string name="textview_preferences_daily_on">Daily Reminder ON</string>
+    <string name="textview_preferences_daily_off">Daily Reminder Off</string>
+    <string name="preferences_daily_message">Check the newest movie now!</string>
+    <string name="textview_preferences_release_on">Release Reminder ON</string>
+    <string name="textview_preferences_release_off">Release Reminder OFF</string>
+    <string name="service_message"> has been released today!</string>
+
+</resources>

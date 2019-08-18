@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_detail_favorite"
+        android:title="@string/menu_detail"
+        android:icon = "@drawable/ic_likewhite"
+        android:orderInCategory="21"
+        app:showAsAction="ifRoom" />
+
+        <group>
+        <item android:id="@+id/menu_setting_language"
+            android:title="@string/menu_1"
+            android:orderInCategory="20"
+            app:showAsAction="never" />
+        <item android:id="@+id/menu_setting_reminder"
+            android:title="@string/menu_2"
+            android:orderInCategory="21"
+            app:showAsAction="never" />
+    </group>
+</menu>

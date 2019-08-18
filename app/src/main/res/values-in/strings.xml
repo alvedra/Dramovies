@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dramovies Final</string>
+
+    <string name="hello_blank_fragment">Ini fragment kosong</string>
+
+    <string name="edittext_search_movie">Judul Film</string>
+    <string name="textview_overview">Deskripsi</string>
+    <string name="textview_genre">Kategori</string>
+    <string name="textview_release">Tanggal Rilis</string>
+    <string name="textview_language">Bahasa</string>
+    <string name="textview_rating">Nilai</string>
+    <string name="textview_genre_action">Action</string>
+    <string name="textview_overview_desc">Setelah digigit oleh laba-laba Peter Parker menjadi spiderman.</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="upcoming">Akan Datang</string>
+    <string name="search">Cari</string>
+    <string name="menu_1">Bahasa</string>
+    <string name="search_hint">Judul Film</string>
+    <string name="action_search">Cari</string>
+    <string name="favorite">Favorit</string>
+    <string name="menu_detail">Menu Favorite</string>
+    <string name="textview_favorite_list">Daftar Favorit anda masih kosong</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Empty List</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="menu_2">Pengaturan Pengingat</string>
+    <string name="key_daily_reminder">daily</string>
+    <string name="textview_daily_reminder">Pengingat Harian</string>
+    <string name="summary_daily_reminder">Pengingat untuk membuka app tiap hari</string>
+    <string name="textview_release_reminder">Pengingat Rilis</string>
+    <string name="summary_release_reminder">Pengingat untuk menampilkan film yang rilis hari ini</string>
+    <string name="key_release_reminder">release</string>
+    <string name="textview_preferences_daily_on">Pengingat Harian ON</string>
+    <string name="textview_preferences_daily_off">Pengingat Harian Off</string>
+    <string name="preferences_daily_message">Cek film terbaru sekarang!</string>
+    <string name="textview_preferences_release_on">Pengingat Rilis ON</string>
+    <string name="textview_preferences_release_off">Pengingat Rilis OFF</string>
+    <string name="service_message"> telah rilis hari ini!</string>
+</resources>

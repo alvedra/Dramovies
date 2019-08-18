@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:id="@+id/rl_items">
+
+    <ImageView
+        android:layout_width="64dp"
+        android:layout_height="96dp"
+        android:scaleType="fitXY"
+        tools:src="@drawable/ic_launcher_background"
+        android:id="@+id/iv_image_poster"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:layout_toRightOf="@+id/iv_image_poster">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:textColor="#D81B60"
+            tools:text="Spiderman"
+            android:id="@+id/tv_movie_name"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:maxLines="2"
+            android:ellipsize="end"
+            tools:text="Deskripsi Film"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+            android:id="@+id/tv_movie_desc"/>
+
+    </LinearLayout>
+</RelativeLayout>
